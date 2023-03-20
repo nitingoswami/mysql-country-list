@@ -10,6 +10,37 @@ CREATE TABLE `apps_countries_detailed` (
   `north` varchar(30) DEFAULT NULL,
   `south` varchar(30) DEFAULT NULL,
   `east` varchar(30) DEFAULT NULL,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   `west` varchar(30) DEFAULT NULL,
   `capital` varchar(100) DEFAULT NULL,
   `continentName` varchar(100) DEFAULT NULL,
